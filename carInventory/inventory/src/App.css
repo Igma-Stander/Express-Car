@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-color: rgb(186, 1, 1);
+  color: white;
+}
+
+.headings {
+  color: black;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.input {
+  margin-right: 5px;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  border: solid black 2px;
+  margin-right: 5px;
+  margin-top: 3px;
+  font-weight: 300;
+}
+
+.list {
+  padding-bottom: 10px;
+}
+
+.box {
+  margin-left: 5px;
+}
