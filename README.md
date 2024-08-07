@@ -13,13 +13,13 @@ Before starting the server and react application you will need to intsall packag
 
 ### Backend
 
-cd into the backend folder.\
+cd into the server.js.\
 Start of with running `npm init -y`.\
 Next use `npm install` to install all the dependencies and nodemon.\
 Now start the server by simply using `npm start`
 
 ### Frontend
 
-cd into the frontend folder.\
+cd into the inventory folder(React folder).\
 Run `npm install` to install the node-modules and bootstrap.\
 Now run `npm start` to see the react application in your browser.
